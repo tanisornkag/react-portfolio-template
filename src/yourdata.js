@@ -4,11 +4,11 @@ export default
         //Change The Website Template
         name :'chetanverma.',
         headerTagline: [//Line 1 For Header
-                        'Hi 👋 You found me! I am Your Name.',
+                        'Hi 👋 You found me! I am Tanisorn.',
                         //Line 2 For Header
-                        'Digital designer ',
+                        'Student',
                         //Line 3 For Header
-                        'from India'
+                        'from Thammasat University'
     ],
         //Contact Email
         contactEmail:'hello@chetanverma.com',
